@@ -18,8 +18,10 @@ Q7 . Are there cases where I must use a for loop but not a while, or vice versa?
 Q8. Write a Java program to sort an array of given integers using the Bubble sorting Algorithm and Heap sort Algorithm.
 
 Q9. Write a program to find Leap year
+
 Q10. Write a program GreatestCommonDivisor that finds the greatest common divisor (gcd) of two integers using Euclid’s algorithm, which is an iterative computation based on the following observation: if x is greater than y, then if y divides x, the gcd of x and y is y; otherwise, the gcd of x and y is the same as the gcd of x % y and y.
-Q10.Write a program converting to binary 
+
+Q11.Write a program converting to binary 
 Input - 19
 output -10011
 Input - 100000000
